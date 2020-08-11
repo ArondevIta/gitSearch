@@ -1,0 +1,48 @@
+.container {
+  margin: 100px 150px;
+}
+
+input {
+  height: 30px;
+  width: 300px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.userList {
+  display: flex;
+  background-color: #2a628f;
+  padding: 15px;
+  color: #fff;
+}
+
+.userList img {
+  height: 150px;
+  border-radius: 5px;
+}
+
+.userList ul {
+  list-style: none;
+}
+
+.list {
+  margin-top: 5px;
+}
+
+li {
+  margin-top: 5px;
+}
+
+button {
+  background-color: #16324f;
+  border: none;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.searchIcon{
+  color: #fff;
+  cursor: pointer;
+}

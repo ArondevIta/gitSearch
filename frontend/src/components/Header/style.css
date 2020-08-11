@@ -1,0 +1,11 @@
+.menu {
+
+  background-color: #13293d;
+  height: 70px;
+  border-radius: 2px;;
+}
+
+.menu > h1 {
+  padding: 15px;
+  color : #fff;
+}
